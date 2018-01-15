@@ -1,5 +1,7 @@
 # Kubernetes the Hard Way on Vagrant
 
+![Image of amazin Kubernetes ](kubernetes_logo.png) 
+
 Bootstrap Kubernetes the hard way on Vagrant
 
 This vagrant Lab is inspired by the [Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) tutorial.
