@@ -14,6 +14,6 @@ Get code
 
 Create cluster's assets and fully automated codes to bring up a Kubernetes cluster
 ```
-$ bash start.sh
+ $ bash start.sh
 
 ```
