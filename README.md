@@ -1,6 +1,6 @@
 # Kubernetes the Hard Way on Vagrant
 
-![Image of amazin Kubernetes ](kubernetes_logo.png) 
+![Image of amazin Kubernetes ](image/kubernetes_logo.png) 
 
 Bootstrap Kubernetes the hard way on Vagrant
 
