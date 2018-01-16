@@ -10,12 +10,12 @@ Vagrant.require_version ">= 1.6.0"
 
 # Controller
 # min=1 / max=3
-$controller_count = 3
+$controller_count = 1
 $controller_vm_memory = 1024
 
 # Worker 
 # min=1 / max=5
-$worker_count = 2
+$worker_count = 1
 $worker_vm_memory = 2000
 
 if $worker_vm_memory < 2000
